@@ -3,6 +3,3 @@ def main():
 
 def a():
     print("This is another function")
-
-a()
-main()
